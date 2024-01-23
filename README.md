@@ -1,14 +1,9 @@
-# Krypt - Web 3.0 Blockchain Application
-![Krypt](https://i.ibb.co/DVF4tNW/image.png)
+# Sherlock - Web 3.0 Blockchain Application
+![Sherlock](https://github.com/Omkar-Uplenchawar/Decentralized-News-Web-Application-Using-Blockchain-Technology./assets/89998258/0748e75c-756d-41aa-9a27-c5f2f4668048
 
-## Introduction
-This is a code repository for the corresponding video tutorial.
+Project Introduction:
+Central to the mission of a decentralized news web application powered by blockchain is an unwavering commitment to transparency, authentication, and data integrity. By harnessing the immutable nature of blockchain technology, the platform ensures that every piece of news content is rigorously verified, maintaining its integrity from source to reader. The editorial and verification processes are conducted openly, allowing 
+users to trace the origin and credibility of news articles without revealing sensitive information. This emphasis on transparency and authentication not only promotes trust but also safeguards user privacy, fostering an ecosystem where the authenticity of news prevails, unmarred by censorship or manipulation.
 
-Using Web 3.0 methodologies, Solidity and Metamask you'll learn how to build a your first real Web 3.0 Application - from start to finish.
 
-Project created in collaboration with Enyel Sequeira: 
-Portfolio - https://www.enyelsequeira.com
-E-mail - enyelsequeira1994@gmail.com
-Want me to cover the project you've created? Send me an e-mail 👌
 
-## Launch your development career with project-based coaching - https://www.jsmastery.pro

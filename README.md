@@ -1,5 +1,5 @@
 # Sherlock - Web 3.0 Blockchain Application
-![Sherlock](https://github.com/Omkar-Uplenchawar/Decentralized-News-Web-Application-Using-Blockchain-Technology./assets/89998258/0748e75c-756d-41aa-9a27-c5f2f4668048
+![Image](https://github.com/Omkar-Uplenchawar/Decentralized-News-Web-Application-Using-Blockchain-Technology./assets/89998258/0748e75c-756d-41aa-9a27-c5f2f4668048
 
 Project Introduction:
 Central to the mission of a decentralized news web application powered by blockchain is an unwavering commitment to transparency, authentication, and data integrity. By harnessing the immutable nature of blockchain technology, the platform ensures that every piece of news content is rigorously verified, maintaining its integrity from source to reader. The editorial and verification processes are conducted openly, allowing 
